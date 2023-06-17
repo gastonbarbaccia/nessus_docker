@@ -130,3 +130,6 @@ thanks a lot!
 If you like this project, you can be a sponsor!  
 
 [Pay Me via PayPal](https://www.paypal.com/paypalme/pay2rami)
+
+Reset password admin:
+/opt/nessus/sbin/nessuscli chpasswd admin
